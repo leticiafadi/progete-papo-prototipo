@@ -1,1 +1,6 @@
-![Tela Config em desenvolvimento desktop](https://user-images.githubusercontent.com/32306887/84707032-5c4e0a80-af34-11ea-8429-406c234cd9e3.PNG)
+#Tela de Login Desktop  
+![Tela de Login](https://user-images.githubusercontent.com/32306887/84700410-7b936a80-af29-11ea-93e9-219b656a24dc.PNG)
+
+
+#Tela login Mobile  
+![Tela login mobile](https://user-images.githubusercontent.com/32306887/84700848-4c312d80-af2a-11ea-8727-33fe82ed14d1.PNG)
