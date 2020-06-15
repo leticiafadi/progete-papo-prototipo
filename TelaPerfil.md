@@ -1,7 +1,10 @@
 #Tela Perfil Desktop  
-![Tela perfil Desktop](https://user-images.githubusercontent.com/32306887/84706901-2c9f0280-af34-11ea-9236-3d713ad5f2fc.PNG)
+![Tela perfil Desktop](https://user-images.githubusercontent.com/32306887/84709369-6b36bc00-af38-11ea-9b95-2f7fd68062f9.PNG)
+
 
 
 #Tela Perfil Mobile  
-![Tela Perfil Mobile](https://user-images.githubusercontent.com/32306887/84706979-4a6c6780-af34-11ea-8af6-79ee8184558a.PNG)
+![Tela perfil Mobile1](https://user-images.githubusercontent.com/32306887/84709287-4a6e6680-af38-11ea-8788-9df90b1523d3.PNG)
+![Tela perfil Mobile2](https://user-images.githubusercontent.com/32306887/84709293-4c382a00-af38-11ea-99f3-054379cb3052.PNG)
+
 
