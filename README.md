@@ -2,24 +2,8 @@
 O objetivo deste documento é apresentar as telas do protótipo da aplicação "Plataforma de Aconselhamento Psicologico Online" do projeto de extensão, Progete!
 
 
-#Tela de Login Desktop  
-![Tela de Login](https://user-images.githubusercontent.com/32306887/84700410-7b936a80-af29-11ea-93e9-219b656a24dc.PNG)
 
 
-#Tela login Mobile  
-![Tela login mobile](https://user-images.githubusercontent.com/32306887/84700848-4c312d80-af2a-11ea-8727-33fe82ed14d1.PNG)
-
-
-#Menu aberto  
-![Menu aberto](https://user-images.githubusercontent.com/32306887/84700998-8ac6e800-af2a-11ea-8935-0dbfee516f9f.PNG)
-
-
-#Menu fechado  
-![Menu fechado](https://user-images.githubusercontent.com/32306887/84701016-91edf600-af2a-11ea-9c23-abc66ebc8697.PNG)
-
-
-#Menu Mobile  
-![Menu Mobile](https://user-images.githubusercontent.com/32306887/84701036-99150400-af2a-11ea-8606-9239884e87ba.PNG)
 
 
 #Tela Home Desktop  
