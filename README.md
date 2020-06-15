@@ -14,13 +14,6 @@ O objetivo deste documento é apresentar as telas do protótipo da aplicação "
 ![Tela Home Mobile](https://user-images.githubusercontent.com/32306887/84706877-201aaa00-af34-11ea-94a8-8d5874c57fce.PNG)
 
 
-#Tela Perfil Desktop  
-![Tela perfil Desktop](https://user-images.githubusercontent.com/32306887/84706901-2c9f0280-af34-11ea-9236-3d713ad5f2fc.PNG)
-
-
-#Tela Perfil Mobile
-![Tela Perfil Mobile](https://user-images.githubusercontent.com/32306887/84706979-4a6c6780-af34-11ea-8af6-79ee8184558a.PNG)
-
 
 #Tela Lembretes  
 ![Tela Lembretes em desenvolvimento](https://user-images.githubusercontent.com/32306887/84707004-535d3900-af34-11ea-9498-a818ab5f5142.PNG)
