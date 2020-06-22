@@ -9,6 +9,8 @@
  *Permitir notificações.  
  *Receber notificações por email.  
  *Receber notificações na tela de bloqueio.  
- *Pausar notificações: 8horas, 1 dia, 1 semana, permanentemente.  
-2. Mudar tema claro para escuto e vice e versa. Talvez um tema colorido seja adicionado(cores a escolher).
+ *Pausar notificações: 8horas, 1 dia, 1 semana, permanentemente.    
+
+2. Mudar tema claro para escuto e vice e versa. Talvez um tema colorido seja adicionado(cores a escolher).  
+
 3. Suporte é o contato que eles terão diretamente com os desenvolvedores, para manter a aplicação.
